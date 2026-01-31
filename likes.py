@@ -10,7 +10,7 @@ UNIVERSE_ID = 9624826225
 DATASTORE_NAME = "likes"
 ENTRY_KEY = "likes"
 SCOPE = "global"
-WAIT_TIME_SECONDS = 300  # 5 minutes
+WAIT_TIME_SECONDS = 60  # 5 minutes
 
 SET_ENTRY_URL = (
     f"https://apis.roblox.com/datastores/v1/universes/{UNIVERSE_ID}"
