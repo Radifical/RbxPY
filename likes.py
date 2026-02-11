@@ -18,7 +18,7 @@ SET_ENTRY_URL = (
 )
 VOTES_URL = f"https://games.roblox.com/v1/games/votes?universeIds={UNIVERSE_ID}"
 
-print("hi")
+print("yerrrr")
 while True:
     print("Starting updater...")
     time.sleep(WAIT_TIME_SECONDS)
